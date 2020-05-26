@@ -1,6 +1,8 @@
 <html>
-  <header>
+  <head>
     test web page
-  </header>
-
+  </head>
+  <body>
+    Hello Philly!
+  </body>
 </html>
